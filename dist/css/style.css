@@ -126,6 +126,22 @@ header .carousel h1{
     width: 600px;
 }
 
+.aside-info {
+    background-color: #f9f9f9;
+    padding: 30px 20px;
+    margin: 40px 0;
+    text-align: center;
+    border-top: 2px solid #ddd;
+}
+
+.aside-info img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+
 /*FAMOUS STYLE*/
 .famous{
     width: 100%;
